@@ -1,4 +1,4 @@
-type Gender = 'M' | 'F'
+/*type Gender = 'M' | 'F'
 
 interface PersonProps {
     name: string;
@@ -60,4 +60,4 @@ class UserSetting extends User {
         this.workingDirectory = workingDirectory;
         this.lastOpenFolder = lastOpenFolder
     }
-}
+}*/
