@@ -1,4 +1,4 @@
-class Product {
+/*class Product {
     constructor(
         public name: string = '', 
         public price: number = 0, 
@@ -31,5 +31,5 @@ class Product {
 
 interface Size {
 
-}
+} */
 
