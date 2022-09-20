@@ -1,4 +1,4 @@
-type Gender = 'M' | 'F'
+/*type Gender = 'M' | 'F'
 class Person {
     
     public name: string
@@ -40,7 +40,7 @@ class UserSettings extends User {
         super(email, role, name, gender, birthdate);
     }
 }
-
-const userSettings = new UserSettings('/usr/home', '/home', 'angel.goez','ADMIN', 'Angel Manuel', 'M', new Date('1995-02-26'))
+*/
+//const userSettings = new UserSettings('/usr/home', '/home', 'angel.goez','ADMIN', 'Angel Manuel', 'M', new Date('1995-02-26'))
 //const newPeroson = new Person('Angel Manuel', "M", new Date('1995-02-26'))
 //const newUser = new User('angel.goez', 'ROLE', 'Angel Manuel Góez Giraldo', 'M', new Date('1995-02-26'));
